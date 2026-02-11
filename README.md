@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Especialista+en+Java+%2B+PHP;React+%26+Symfony+Enthusiast;Soluciones+con+Docker+%26+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Desarrollador+en+Balinot;Especialista+en+Java+%2B+PHP;React+%26+Symfony+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,13 +17,35 @@
 
 ---
 
-### ⚡ Un vistazo sobre mí
+### 💼 Experiencia Profesional
 
-Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me especializo en crear aplicaciones Full Stack que resuelven problemas del mundo real mediante tecnología moderna y escalable.
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://balinot.com/wp-content/uploads/2021/03/logo-balinot-negativo.png" width="80" alt="Balinot Logo" />
+    </td>
+    <td>
+      <strong>Balinot</strong> | <em>Full Stack Developer</em><br />
+      Desarrollo y mantenimiento de soluciones tecnológicas avanzadas. Enfoque en arquitecturas escalables y eficiencia en el stack de desarrollo.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.beebit.es/wp-content/uploads/2022/03/logo-beebit-footer.png" width="80" alt="Beebit Logo" />
+    </td>
+    <td>
+      <strong>Beebit</strong> | <em>Desarrollador Full Stack (Formación DUAL)</em><br />
+      Aplicación de soluciones reales en entornos de producción con <strong>Symfony</strong> y <strong>React</strong>.
+    </td>
+  </tr>
+</table>
 
-- 🚀 **Enfocado en:** Desarrollo Full Stack (Symfony + React).
-- 🛠️ **Mi fuerte:** Lógica de negocio, consumo de APIs y seguridad de código.
-- 🎓 **Hito:** Finalizando **TFG de Comanda Digital** y diversos sistemas de gestión comercial.
+---
+
+### 🚀 Sobre mí
+- 🌱 Evolucionando constantemente en el ecosistema **Symfony**, **Twig** y **React**.
+- 🎓 **Hito Académico:** Finalizando el **TFG de Comanda Digital**, un ecosistema completo para hostelería.
+- 🐳 **Infraestructura:** Gestión de contenedores y despliegue mediante **Docker**.
 - ⌨️ **Setup:** Programando con teclado español para máxima agilidad.
 
 ---
@@ -52,41 +74,26 @@ Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimient
 ### 📂 Proyectos Estrella
 
 #### 🍽️ [Comanda Digital - TFG](https://github.com/Rubencalii/ral_bueno_tfg)
-**Mi proyecto principal.** Sistema integral para digitalizar pedidos en restaurantes usando **PHP/Symfony**.
-- Gestión de pedidos en tiempo real y optimización de servicios de hostelería.
-
-#### ✂️ [Gestión de Peluquería](https://github.com/Rubencalii)
-**Aplicación de gestión comercial.**
-- Implementación de lógica para reservas, servicios y clientes.
-- Seguridad reforzada mediante monitorización de secretos y buenas prácticas en el código.
+Sistema integral para digitalizar pedidos en restaurantes usando **PHP/Symfony**. Mi proyecto más ambicioso.
 
 #### 🦖 [Ark Project](https://github.com/Rubencalii/Ark)
-**Plataforma Full Stack.** Desarrollo basado en Symfony para la gestión de comunidades y datos del universo Ark.
+Plataforma Full Stack basada en Symfony dedicada a la gestión de datos del universo Ark.
 
 #### 🐙 [Pokedex React](https://github.com/Rubencalii/Pokedex)
-**Consumo de API moderna.** Aplicación dinámica en React que utiliza Hooks y estados asíncronos para visualizar datos en tiempo real.
+Aplicación dinámica que consume la PokeAPI, demostrando dominio de Hooks y estados en React.
 
-#### ♟️ [Ajedrez-Java](https://github.com/Rubencalii/Ajedrez-Java)
-**Lógica pura y POO.** Motor de ajedrez completo desarrollado en Java enfocado en la validación de movimientos y estados complejos.
+#### ✂️ [Gestión de Peluquería](https://github.com/Rubencalii)
+Aplicación de gestión comercial con enfoque en lógica de reservas y seguridad de código.
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
-
+### 📈 Estadísticas de GitHub
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rubencalii&show_icons=true&theme=tokyonight&border_radius=10" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubencalii&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rubencalii&theme=tokyonight" width="100%" />
-</p>
-
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=100&section=footer" />
