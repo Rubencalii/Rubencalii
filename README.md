@@ -17,6 +17,31 @@
 
 ---
 
+### 💼 Experiencia Profesional
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="./img/Balinot.png" alt="Balinot Logo" />
+    </td>
+    <td>
+      <strong>Balinot</strong> | <em>Full Stack Developer</em><br />
+      Desarrollo y mantenimiento de soluciones tecnológicas avanzadas, optimización de sistemas y arquitecturas escalables.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://images.weserv.nl/?url=beebit.es/logotipo.png&w=80" alt="Beebit Logo" />
+    </td>
+    <td>
+      <strong>Beebit</strong> | <em>Desarrollador Full Stack (Formación DUAL)</em><br />
+      Implementación de aplicaciones reales con <strong>Symfony</strong> y <strong>React</strong> en entornos de producción.
+    </td>
+  </tr>
+</table>
+
+---
+
 ### ⚡ Un vistazo sobre mí
 
 Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me especializo en crear aplicaciones robustas que resuelven problemas reales, desde sistemas de gestión comercial hasta motores de lógica compleja.
