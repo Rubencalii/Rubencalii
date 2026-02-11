@@ -19,11 +19,11 @@
 
 ### ⚡ Un vistazo sobre mí
 
-Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me encanta enfrentarme a retos lógicos, desde optimizar una consulta en **PostgreSQL** hasta recrear sistemas complejos como un motor de **Ajedrez en Java**.
+Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me especializo en crear aplicaciones robustas que resuelven problemas reales, desde sistemas de gestión comercial hasta motores de lógica compleja.
 
 - 🚀 **Enfocado en:** Desarrollo Full Stack (Symfony + React).
-- 🛠️ **Mi fuerte:** Lógica de negocio robusta y despliegue con Docker.
-- 🎓 **Formación:** Actualmente en Formación DUAL, aplicando teoría a entornos reales.
+- 🛠️ **Mi fuerte:** Lógica de negocio, gestión de bases de datos y despliegue con Docker.
+- 🎓 **Hito:** Finalizando **TFG de Comanda Digital**, un ecosistema completo para hostelería.
 - ⌨️ **Setup:** Programando con teclado español para máxima agilidad.
 
 ---
@@ -49,6 +49,26 @@ Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimient
 
 ---
 
+### 📂 Proyectos Estrella
+
+#### 🍽️ [Comanda Digital - TFG](https://github.com/Rubencalii/ral_bueno_tfg)
+**El proyecto más completo de mi portfolio.** Una solución integral para digitalizar el flujo de pedidos en restaurantes.
+- **Backend:** Gestión de pedidos en tiempo real y administración de stock.
+- **Stack:** Symfony, Twig y base de datos relacional.
+- **Logro:** Sustitución de procesos analógicos por una interfaz ágil y escalable.
+
+#### ♟️ [Ajedrez-Java](https://github.com/Rubencalii/Ajedrez-Java)
+**Lógica pura y Programación Orientada a Objetos.**
+- Implementación de todas las reglas del ajedrez tradicional.
+- Gestión de estados de tablero y validación de movimientos legales.
+
+#### 🎓 [LevelUp Peer](https://github.com/Rubencalii)
+**Plataforma de tutoría entre pares.**
+- Sistema de gamificación con **LUP Coins** para incentivar el aprendizaje colaborativo.
+- Arquitectura pensada para el despliegue en entornos cloud.
+
+---
+
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="center">
@@ -59,14 +79,6 @@ Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimient
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rubencalii&theme=tokyonight" width="100%" />
 </p>
-
----
-
-### 📂 Proyectos que marcan la diferencia
-
-- **♟️ [Ajedrez-Java](https://github.com/Rubencalii/Ajedrez-Java):** Lógica pura de objetos y validaciones complejas.
-- **🛹 [Subway-Surfers](https://github.com/Rubencalii/Subway-surfers):** Manipulación del DOM y animaciones fluidas con JS.
-- **🐳 [Docker-Labs](https://github.com/Rubencalii/Examen-Docker):** Orquestación y despliegue de entornos aislados.
 
 ---
 
