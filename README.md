@@ -71,16 +71,6 @@ Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimient
 </table>
 
 ---
-### ⚡ Un vistazo sobre mí
-
-Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me especializo en crear aplicaciones robustas que resuelven problemas reales, desde sistemas de gestión comercial hasta motores de lógica compleja.
-
-- 🚀 **Enfocado en:** Desarrollo Full Stack (Symfony + React).
-- 🛠️ **Mi fuerte:** Lógica de negocio, gestión de bases de datos y despliegue con Docker.
-- 🎓 **Hito:** Finalizando **TFG de Comanda Digital**, un ecosistema completo para hostelería.
-- ⌨️ **Setup:** Programando con teclado español para máxima agilidad.
-  
----
 
 ### 📂 Proyectos Estrella
 
