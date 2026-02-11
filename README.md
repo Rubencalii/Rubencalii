@@ -19,10 +19,10 @@
 
 ### ⚡ Un vistazo sobre mí
 
-Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me especializo en crear aplicaciones robustas que resuelven problemas reales, desde sistemas de gestión comercial hasta motores de lógica compleja.
+Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me especializo en crear aplicaciones Full Stack, desde sistemas de gestión profesional hasta aplicaciones interactivas modernas.
 
 - 🚀 **Enfocado en:** Desarrollo Full Stack (Symfony + React).
-- 🛠️ **Mi fuerte:** Lógica de negocio, gestión de bases de datos y despliegue con Docker.
+- 🛠️ **Mi fuerte:** Lógica de negocio, consumo de APIs y despliegue con Docker.
 - 🎓 **Hito:** Finalizando **TFG de Comanda Digital**, un ecosistema completo para hostelería.
 - ⌨️ **Setup:** Programando con teclado español para máxima agilidad.
 
@@ -52,20 +52,19 @@ Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimient
 ### 📂 Proyectos Estrella
 
 #### 🍽️ [Comanda Digital - TFG](https://github.com/Rubencalii/ral_bueno_tfg)
-**El proyecto más completo de mi portfolio.** Una solución integral para digitalizar el flujo de pedidos en restaurantes.
-- **Backend:** Gestión de pedidos en tiempo real y administración de stock.
-- **Stack:** Symfony, Twig y base de datos relacional.
-- **Logro:** Sustitución de procesos analógicos por una interfaz ágil y escalable.
+**Mi proyecto más ambicioso.** Sistema integral para digitalizar pedidos en restaurantes usando **PHP/Symfony**.
+- Gestión de pedidos en tiempo real y administración de stock.
+
+#### 🦖 [Ark Project](https://github.com/Rubencalii/Ark)
+**Desarrollo Full Stack con Symfony.** Una plataforma dedicada al universo de Ark.
+- Implementación de lógica de servidor robusta y plantillas con **Twig**.
+
+#### 🐙 [Pokedex React](https://github.com/Rubencalii/Pokedex)
+**Frontend moderno y dinámico.** Aplicación que consume la PokeAPI.
+- Uso de **React Hooks**, componentes reutilizables y gestión de estados asíncronos.
 
 #### ♟️ [Ajedrez-Java](https://github.com/Rubencalii/Ajedrez-Java)
-**Lógica pura y Programación Orientada a Objetos.**
-- Implementación de todas las reglas del ajedrez tradicional.
-- Gestión de estados de tablero y validación de movimientos legales.
-
-#### 🎓 [LevelUp Peer](https://github.com/Rubencalii)
-**Plataforma de tutoría entre pares.**
-- Sistema de gamificación con **LUP Coins** para incentivar el aprendizaje colaborativo.
-- Arquitectura pensada para el despliegue en entornos cloud.
+**Lógica pura y POO.** Implementación completa de las reglas y movimientos del ajedrez tradicional.
 
 ---
 
