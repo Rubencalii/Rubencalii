@@ -19,11 +19,11 @@
 
 ### ⚡ Un vistazo sobre mí
 
-Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me especializo en crear aplicaciones Full Stack, desde sistemas de gestión profesional hasta aplicaciones interactivas modernas.
+Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me especializo en crear aplicaciones Full Stack que resuelven problemas del mundo real mediante tecnología moderna y escalable.
 
 - 🚀 **Enfocado en:** Desarrollo Full Stack (Symfony + React).
-- 🛠️ **Mi fuerte:** Lógica de negocio, consumo de APIs y despliegue con Docker.
-- 🎓 **Hito:** Finalizando **TFG de Comanda Digital**, un ecosistema completo para hostelería.
+- 🛠️ **Mi fuerte:** Lógica de negocio, consumo de APIs y seguridad de código.
+- 🎓 **Hito:** Finalizando **TFG de Comanda Digital** y diversos sistemas de gestión comercial.
 - ⌨️ **Setup:** Programando con teclado español para máxima agilidad.
 
 ---
@@ -52,19 +52,22 @@ Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimient
 ### 📂 Proyectos Estrella
 
 #### 🍽️ [Comanda Digital - TFG](https://github.com/Rubencalii/ral_bueno_tfg)
-**Mi proyecto más ambicioso.** Sistema integral para digitalizar pedidos en restaurantes usando **PHP/Symfony**.
-- Gestión de pedidos en tiempo real y administración de stock.
+**Mi proyecto principal.** Sistema integral para digitalizar pedidos en restaurantes usando **PHP/Symfony**.
+- Gestión de pedidos en tiempo real y optimización de servicios de hostelería.
+
+#### ✂️ [Gestión de Peluquería](https://github.com/Rubencalii)
+**Aplicación de gestión comercial.**
+- Implementación de lógica para reservas, servicios y clientes.
+- Seguridad reforzada mediante monitorización de secretos y buenas prácticas en el código.
 
 #### 🦖 [Ark Project](https://github.com/Rubencalii/Ark)
-**Desarrollo Full Stack con Symfony.** Una plataforma dedicada al universo de Ark.
-- Implementación de lógica de servidor robusta y plantillas con **Twig**.
+**Plataforma Full Stack.** Desarrollo basado en Symfony para la gestión de comunidades y datos del universo Ark.
 
 #### 🐙 [Pokedex React](https://github.com/Rubencalii/Pokedex)
-**Frontend moderno y dinámico.** Aplicación que consume la PokeAPI.
-- Uso de **React Hooks**, componentes reutilizables y gestión de estados asíncronos.
+**Consumo de API moderna.** Aplicación dinámica en React que utiliza Hooks y estados asíncronos para visualizar datos en tiempo real.
 
 #### ♟️ [Ajedrez-Java](https://github.com/Rubencalii/Ajedrez-Java)
-**Lógica pura y POO.** Implementación completa de las reglas y movimientos del ajedrez tradicional.
+**Lógica pura y POO.** Motor de ajedrez completo desarrollado en Java enfocado en la validación de movimientos y estados complejos.
 
 ---
 
