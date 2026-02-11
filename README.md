@@ -17,35 +17,13 @@
 
 ---
 
-### 💼 Experiencia Profesional
+### ⚡ Un vistazo sobre mí
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://balinot.com/wp-content/uploads/2021/03/logo-balinot-negativo.png" width="80" alt="Balinot Logo" />
-    </td>
-    <td>
-      <strong>Balinot</strong> | <em>Full Stack Developer</em><br />
-      Desarrollo y mantenimiento de soluciones tecnológicas avanzadas. Enfoque en arquitecturas escalables y eficiencia en el stack de desarrollo.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://www.beebit.es/wp-content/uploads/2022/03/logo-beebit-footer.png" width="80" alt="Beebit Logo" />
-    </td>
-    <td>
-      <strong>Beebit</strong> | <em>Desarrollador Full Stack (Formación DUAL)</em><br />
-      Aplicación de soluciones reales en entornos de producción con <strong>Symfony</strong> y <strong>React</strong>.
-    </td>
-  </tr>
-</table>
+Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me especializo en crear aplicaciones robustas que resuelven problemas reales, desde sistemas de gestión comercial hasta motores de lógica compleja.
 
----
-
-### 🚀 Sobre mí
-- 🌱 Evolucionando constantemente en el ecosistema **Symfony**, **Twig** y **React**.
-- 🎓 **Hito Académico:** Finalizando el **TFG de Comanda Digital**, un ecosistema completo para hostelería.
-- 🐳 **Infraestructura:** Gestión de contenedores y despliegue mediante **Docker**.
+- 🚀 **Enfocado en:** Desarrollo Full Stack (Symfony + React).
+- 🛠️ **Mi fuerte:** Lógica de negocio, gestión de bases de datos y despliegue con Docker.
+- 🎓 **Hito:** Finalizando **TFG de Comanda Digital**, un ecosistema completo para hostelería.
 - ⌨️ **Setup:** Programando con teclado español para máxima agilidad.
 
 ---
@@ -70,30 +48,50 @@
 </table>
 
 ---
+### ⚡ Un vistazo sobre mí
+
+Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimiento eficiente**. Me especializo en crear aplicaciones robustas que resuelven problemas reales, desde sistemas de gestión comercial hasta motores de lógica compleja.
+
+- 🚀 **Enfocado en:** Desarrollo Full Stack (Symfony + React).
+- 🛠️ **Mi fuerte:** Lógica de negocio, gestión de bases de datos y despliegue con Docker.
+- 🎓 **Hito:** Finalizando **TFG de Comanda Digital**, un ecosistema completo para hostelería.
+- ⌨️ **Setup:** Programando con teclado español para máxima agilidad.
+  
+---
 
 ### 📂 Proyectos Estrella
 
 #### 🍽️ [Comanda Digital - TFG](https://github.com/Rubencalii/ral_bueno_tfg)
-Sistema integral para digitalizar pedidos en restaurantes usando **PHP/Symfony**. Mi proyecto más ambicioso.
+**El proyecto más completo de mi portfolio.** Una solución integral para digitalizar el flujo de pedidos en restaurantes.
+- **Backend:** Gestión de pedidos en tiempo real y administración de stock.
+- **Stack:** Symfony, Twig y base de datos relacional.
+- **Logro:** Sustitución de procesos analógicos por una interfaz ágil y escalable.
 
-#### 🦖 [Ark Project](https://github.com/Rubencalii/Ark)
-Plataforma Full Stack basada en Symfony dedicada a la gestión de datos del universo Ark.
+#### ♟️ [Ajedrez-Java](https://github.com/Rubencalii/Ajedrez-Java)
+**Lógica pura y Programación Orientada a Objetos.**
+- Implementación de todas las reglas del ajedrez tradicional.
+- Gestión de estados de tablero y validación de movimientos legales.
 
-#### 🐙 [Pokedex React](https://github.com/Rubencalii/Pokedex)
-Aplicación dinámica que consume la PokeAPI, demostrando dominio de Hooks y estados en React.
-
-#### ✂️ [Gestión de Peluquería](https://github.com/Rubencalii)
-Aplicación de gestión comercial con enfoque en lógica de reservas y seguridad de código.
+#### 🎓 [LevelUp Peer](https://github.com/Rubencalii)
+**Plataforma de tutoría entre pares.**
+- Sistema de gamificación con **LUP Coins** para incentivar el aprendizaje colaborativo.
+- Arquitectura pensada para el despliegue en entornos cloud.
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 Mis Estadísticas de GitHub
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rubencalii&show_icons=true&theme=tokyonight&border_radius=10" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubencalii&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rubencalii&theme=tokyonight" width="100%" />
+</p>
+
 ---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=100&section=footer" />
