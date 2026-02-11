@@ -106,10 +106,7 @@ Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimient
 
 ### 📈 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rubencalii&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubencalii&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rubencalii&theme=tokyonight" width="100%" />
