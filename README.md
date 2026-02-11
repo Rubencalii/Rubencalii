@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=200&section=header&text=Rubén%20Corral&fontSize=70&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Desarrollador+en+Balinot;Especialista+en+Java+%2B+PHP;React+%26+Symfony+Enthusiast" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruben-corral-romero-0875793a9/" target="blank">
