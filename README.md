@@ -100,6 +100,12 @@ Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimient
 - Sistema de gamificación con **LUP Coins** para incentivar el aprendizaje colaborativo.
 - Arquitectura pensada para el despliegue en entornos cloud.
 
+#### ✂️ [Peluquería - Management System](https://github.com/Rubencalii/Peluqueria)
+**Digitalización de servicios y gestión modular.** - **Lógica:** Implementación de arquitectura modular en PHP para la gestión de citas y servicios.
+- **Motor de Plantillas:** Uso avanzado de **Twig** para una separación profesional entre lógica y vista (precursor de Symfony).
+- **Stack:** PHP, Twig, MySQL, JavaScript.
+- **Logro:** Estructura de archivos limpia y mantenible, optimizada para entornos XAMPP.
+  
 ---
 
 ### 📈 Mis Estadísticas de GitHub
