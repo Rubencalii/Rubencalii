@@ -2,14 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=200&section=header&text=Rubén%20Corral&fontSize=70&animation=fadeIn" />
 </p>
 
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ruben-corral-romero-0875793a9/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rubencalii" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://rubencalii.github.io/MiPaginaWeb/" target="blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Online-00d8ff?style=for-the-badge" />
   </a>
 </p>
 
@@ -75,39 +76,32 @@ Soy un desarrollador apasionado por la **arquitectura limpia** y el **rendimient
 ### 📂 Proyectos Estrella
 
 #### 🍽️ [Comanda Digital - TFG](https://github.com/Rubencalii/ral_bueno_tfg)
-**El proyecto más completo de mi portfolio.** Una solución integral para digitalizar el flujo de pedidos en restaurantes.
-- **Backend:** Gestión de pedidos en tiempo real y administración de stock.
+**El proyecto más completo de mi portfolio.** Solución integral para digitalizar el flujo de pedidos en restaurantes.
 - **Stack:** Symfony, Twig y base de datos relacional.
-- **Logro:** Sustitución de procesos analógicos por una interfaz ágil y escalable.
+- **Logro:** Gestión de pedidos en tiempo real y administración de stock.
+
+#### 🏮 [Pokedex - React](https://github.com/Rubencalii/Pokedex)
+**Consumo de APIs y dinamismo en Frontend.**
+- Integración con PokeAPI para el renderizado de datos asíncronos.
+- Gestión de estados dinámicos y estilos condicionales por tipo de Pokémon.
 
 #### ♟️ [Ajedrez-Java](https://github.com/Rubencalii/Ajedrez-Java)
 **Lógica pura y Programación Orientada a Objetos.**
-- Implementación de todas las reglas del ajedrez tradicional.
-- Gestión de estados de tablero y validación de movimientos legales.
-
-#### 🎓 [LevelUp Peer](https://github.com/Rubencalii)
-**Plataforma de tutoría entre pares.**
-- Sistema de gamificación con **LUP Coins** para incentivar el aprendizaje colaborativo.
-- Arquitectura pensada para el despliegue en entornos cloud.
+- Implementación de reglas y validación de estados de tablero.
 
 #### ✂️ [Peluquería - Management System](https://github.com/Rubencalii/Peluqueria)
-**Digitalización de servicios y gestión modular.** - **Lógica:** Implementación de arquitectura modular en PHP para la gestión de citas y servicios.
-- **Motor de Plantillas:** Uso avanzado de **Twig** para una separación profesional entre lógica y vista (precursor de Symfony).
-- **Stack:** PHP, Twig, MySQL, JavaScript.
-- **Logro:** Estructura de archivos limpia y mantenible, optimizada para entornos XAMPP.
-  
+**Digitalización de servicios (Etapa Beebit).**
+- Arquitectura modular en PHP con motor de plantillas **Twig**.
+
 ---
 
 ### 📈 Mis Estadísticas de GitHub
-
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rubencalii&theme=tokyonight" width="100%" />
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=100&section=footer" />
