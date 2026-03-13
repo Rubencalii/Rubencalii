@@ -34,7 +34,7 @@
     </td>
     <td>
       <strong>Beebit</strong> | <em>Desarrollador Full Stack (Formación DUAL)</em><br />
-      Implementación de aplicaciones reales con <strong>Symfony</strong> y <strong>React</strong> en entornos de producción.
+      Implementación de aplicaciones reales con <strong>HTML</strong> y <strong>CSS</strong> en entornos de producción.
     </td>
   </tr>
 </table>
